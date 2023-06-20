@@ -1,0 +1,25 @@
+{
+  "device": [
+    {
+      "name": "rat",
+      "number": "223",
+      "date": "12",
+      "price": "123124",
+      "id": 1
+    },
+    {
+      "name": "tra",
+      "number": "123",
+      "date": "t",
+      "price": "1",
+      "id": 2
+    },
+    {
+      "name": "t",
+      "number": "t",
+      "date": "t",
+      "price": "t",
+      "id": 3
+    }
+  ]
+}
